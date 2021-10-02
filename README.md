@@ -1,5 +1,5 @@
 # deckle-edge-border
-plug-in for Gimp
+plug-in for Gimp (in Filters - Decor)
 
 This plug-in creates a layer with an irregular deckle edge border around the original
 image. It is possible to change border color and border width. Border width is a %
